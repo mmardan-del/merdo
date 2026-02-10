@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Other sensitive files
+.DS_Store
+*.log
+*.pem
+*.key
